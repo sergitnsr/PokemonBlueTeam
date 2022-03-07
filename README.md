@@ -5,10 +5,10 @@ Exercise repo for InfoSec course, configuring a Debian server, hardening the web
 - OVH (hosting and domain) [OVHCloud](https://ovhcloud.com)
 * IP: 25.25.25.25 / Domain: [Pokemon](https://pokemon.java.cat)
 - Terminal (executing commands)
-- SSH (secure connection to the server)
-- UFW (uncomplicated firewall)
-- NGINX (web server)
-- Certbot LetsEncrypt (SSL certificate)
+- SSH (secure connection to the server) (https://man7.org/linux/man-pages/man1/ssh.1.html)
+- UFW (uncomplicated firewall) https://help.ubuntu.com/community/UFW
+- NGINX (web server)  https://nginx.org/en/docs/
+- Certbot LetsEncrypt (SSL certificate) https://letsencrypt.org/docs/
 - Locust (stress test) [Locust](https://locust.io)
 
 ## Used commands // all run with sudo
