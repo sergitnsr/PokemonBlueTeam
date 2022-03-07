@@ -6,7 +6,7 @@ Exercise repo for InfoSec course, configuring a Debian server, hardening the web
 * IP: 25.25.25.25 / Domain: [Pokemon](https://pokemon.java.cat)
 - Terminal (executing commands)
 - SSH (secure connection to the server) [SSH](https://man7.org/linux/man-pages/man1/ssh.1.html)
-- UFW (uncomplicated firewall)[UFW](https://help.ubuntu.com/community/UFW)
+- UFW (uncomplicated firewall) [UFW](https://help.ubuntu.com/community/UFW)
 - NGINX (web server)  [NGINX](https://nginx.org/en/docs/)
 - Certbot LetsEncrypt (SSL certificate) [LetsEncrypt](https://letsencrypt.org/docs/)
 - Locust (stress test) [Locust](https://locust.io)
